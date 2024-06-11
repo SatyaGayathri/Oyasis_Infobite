@@ -1,0 +1,11 @@
+Account Number:1113
+Account Holder Name:chan
+UserIdchan_17
+ Pin:1234
+Balance:3000.0
+Date:Tue Jun 11 21:56:29 IST 2024
+
+
+Date:Tue Jun 11 21:58:15 IST 2024
+Deposit:300.0
+Account Number:1113Remaing Balance:3300.0

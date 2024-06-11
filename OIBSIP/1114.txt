@@ -1,0 +1,8 @@
+Account Number:1114
+Account Holder Name:jyo
+UserIdjyo_18
+ Pin:1234
+Balance:4000.0
+Date:Tue Jun 11 21:56:50 IST 2024
+
+

@@ -1,0 +1,13 @@
+Account Number:1111
+Account Holder Name:gaya
+UserIdgaya_12
+ Pin:1234
+Balance:10000.0
+Date:Tue Jun 11 21:55:42 IST 2024
+
+
+Date:Tue Jun 11 21:57:53 IST 2024
+WithDrawl:400.0
+Account Number:1111Remaing Balance:9600.0Date:Tue Jun 11 22:01:38 IST 2024
+Deposit:1000.0
+Account Number:1111Remaing Balance:10600.0

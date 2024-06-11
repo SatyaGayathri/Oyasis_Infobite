@@ -1,0 +1,8 @@
+Account Number:1112
+Account Holder Name:jaanu
+UserIdjan_08
+ Pin:1234
+Balance:2000.0
+Date:Tue Jun 11 21:56:07 IST 2024
+
+

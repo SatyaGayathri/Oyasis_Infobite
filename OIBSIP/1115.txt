@@ -1,0 +1,11 @@
+Account Number:1115
+Account Holder Name:renu
+UserIdrenu_33
+ Pin:1234
+Balance:5000.0
+Date:Tue Jun 11 21:57:09 IST 2024
+
+
+Date:Tue Jun 11 22:01:38 IST 2024
+Transferred:1000.0
+Account Number:1115Remaing Balance:4000.0
